@@ -1,3 +1,8 @@
 CMD
 Pharma
+covr
 cyclomatic
+devtools
+roxygen
+strangephrase
+testthat
